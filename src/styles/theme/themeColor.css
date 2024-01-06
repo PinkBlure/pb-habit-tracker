@@ -1,0 +1,10 @@
+
+:root {
+    --primary-color: #E6A1F1;
+    --secondary-color: #881F58;
+    --background-color: #f4f4f4;
+    --linear-gradient-pink-red: linear-gradient(0deg, var(--primary-color), var(--secondary-color));
+    --linear-gradient-pink-white: linear-gradient(0deg, var(--primary-color), var(--background-color) 50%);
+  }
+  
+  
